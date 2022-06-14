@@ -1,5 +1,5 @@
-#Comp Bio Assignment 2
-##Written by Ray Loerke
+# Computational Biology Assignment 2
+## Written by Ray Loerke
 
 Implementation of a primitive gene-finder and predictor program.
 This program will scan a bacterial geneome for genes and predict their products.
